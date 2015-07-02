@@ -3,12 +3,19 @@
     "description": "Simple author image plugin for wordpress",
     "type": "wordpress-plugin",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Daniel Ma",
             "email": "drailskid@yahoo.com"
         }
     ],
+    "keywords": [
+      "wordpress"
+    ],
+    "support": {
+      "issues": "https://github.com/hrock/lookalike/issues"
+    },
     "minimum-stability": "stable",
     "repositories": [
       {
