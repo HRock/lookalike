@@ -3,7 +3,7 @@
  * Plugin Name: Lookalike
  * Plugin URI: https://github.com/hrock/lookalike
  * Description: Simple author image plugin for wordpress
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Daniel Ma
  * Author URI: https://github.com/danielma
  * License: MIT
