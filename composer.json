@@ -1,0 +1,23 @@
+{
+    "name": "hrock/lookalike",
+    "description": "Simple author image plugin for wordpress",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Ma",
+            "email": "drailskid@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "repositories": [
+      {
+        "type": "composer",
+        "url": "http://wpackagist.org"
+      }
+    ],
+    "require": {
+      "wpackagist-plugin/advanced-custom-fields": "~4"
+    }
+}
+
